@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    
+}
+
+p ,span, h1, h2, em{
+    color: white;
+}
+
+#one {
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#two {
+    font-size: 400%;
+    text-align: center;
+}
+
+#three {
+    text-align: center;
+}
